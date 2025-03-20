@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LimitedLeo
-- 👀 I’m interested in ... C++ , C , JS , PHP and Ashembly
+- 👀 I’m interested in ... C++ , C , JS.
 - 🌱 I’m currently learning ... All 
 - 💞️ I’m looking to collaborate on ... IDK
 - 📫 How to reach me ... My email , Leonardoviniciusfrez@gmail.com
