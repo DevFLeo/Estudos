@@ -1,4 +1,4 @@
-# Olá, eu sou o @DevLeoF / Hi, I’m @DevLeoF
+# Olá, eu sou o @DevFLeo / Hi, I’m @DevFLeo
 
 ## Tenho interesse em... / I’m interested in...
 - **C++**: Atualmente explorando conceitos avançados e estruturas de dados. / Currently exploring advanced concepts and data structures.
