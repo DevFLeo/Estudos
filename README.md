@@ -21,3 +21,15 @@
 
 ## Curiosidade / Fun fact...
 - Sou novo no GitHub e ainda estou aprendendo os processos. Talvez eu não saiba o que estou fazendo, mas estou animado para explorar e aprender! / I’m new to GitHub and still learning the ropes. I might not know what I’m doing, but I’m excited to explore and learn.
+
+##  Tecnologias que uso / Technologies I use
+- C++
+- C
+- JavaScript (JS)
+- Node.js
+- Git & GitHub
+
+## Como Contribuir / How to Contribute
+- Faça um fork deste repositório. / Fork this repository.
+- Crie uma nova branch. / Create a new branch.
+- Envie um pull request com suas mudanças. / Send a pull request with your changes.
