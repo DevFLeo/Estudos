@@ -14,7 +14,7 @@
 
 ## Como me encontrar... / How to reach me...
 - Você pode me contatar por e-mail: [leonardoviniciusfrez@gmail.com](mailto:leonardoviniciusfrez@gmail.com) / You can contact me via email: [leonardoviniciusfrez@gmail.com](mailto:leonardoviniciusfrez@gmail.com)
-- GitHub: [@LimitedLeo](https://github.com/LimitedLeo)
+- GitHub: [@DevFLeo](https://github.com/)
 
 ## Pronomes... / Pronouns...
 - **ELE/DELE** (Português) / **He/Him** (English)
