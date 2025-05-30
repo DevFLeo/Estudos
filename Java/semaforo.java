@@ -1,4 +1,11 @@
-// Ideia de semaforo em Java
+// - Ideias de semaforo em Java
+// - Possiveis melhorias
+// - Implementar controle de interrupção mais robusto
+// - Adicionar logs para melhor rastreamento
+// - Melhorar a interface do usuário
+// - Implementar testes unitários
+// - Adicionar tratamento de exceções mais específico
+
 
 import java.util.Scanner;
 
