@@ -1,0 +1,12 @@
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\bin\Debug\net9.0\Loja.Shared.deps.json
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\bin\Debug\net9.0\Loja.Shared.dll
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\bin\Debug\net9.0\Loja.Shared.pdb
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.sourcelink.json
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.dll
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\refint\Loja.Shared.dll
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\Loja.Shared.pdb
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\obj\Debug\net9.0\ref\Loja.Shared.dll

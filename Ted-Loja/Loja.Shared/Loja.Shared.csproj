@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\Models\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Shared\Models\.editorconfig" />
+  </ItemGroup>
+
+</Project>
