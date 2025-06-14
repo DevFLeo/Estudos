@@ -17,3 +17,12 @@ C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Console\obj\
 C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Console\obj\Debug\net9.0\Loja.Console.pdb
 C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Console\obj\Debug\net9.0\Loja.Console.genruntimeconfig.cache
 C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\loja-poo\Loja.Console\obj\Debug\net9.0\ref\Loja.Console.dll
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.sourcelink.json
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.dll
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\refint\Loja.Console.dll
+C:\Users\leona\OneDrive\Documentos\Meus_Repos\Estudos\Ted-Loja\Loja.Console\obj\Debug\net9.0\Loja.Console.pdb

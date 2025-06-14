@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Console\\Loja.Console.csproj": {}
+    "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Loja.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Console\\Loja.Console.csproj": {
+    "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Loja.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Console\\Loja.Console.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Loja.Console.csproj",
         "projectName": "Loja.Console",
-        "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Console\\Loja.Console.csproj",
+        "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Loja.Console.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Console\\obj\\",
+        "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Shared\\Loja.Shared.csproj": {
-                "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Shared\\Loja.Shared.csproj"
+              "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Loja.Shared.csproj": {
+                "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Loja.Shared.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Shared\\Loja.Shared.csproj": {
+    "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Loja.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Shared\\Loja.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Loja.Shared.csproj",
         "projectName": "Loja.Shared",
-        "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Shared\\Loja.Shared.csproj",
+        "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Loja.Shared.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Shared\\obj\\",
+        "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

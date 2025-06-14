@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EWzrOL5JInM=",
+  "dgSpecHash": "0N3CIDijcpI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\loja-Poo-Ted\\Loja.Web\\Loja.Web.csproj",
+  "projectFilePath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Web\\Loja.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",

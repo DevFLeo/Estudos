@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ToDoAula.Models.Categoria>
+
+@{
+    ViewData["Title"] = "Todas as Categorias";
+}
+
+<h1>Todas as Categorias</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Cadastrar">Cadastrar</a>
+</p>
+<table class="table table-hover">
+    <thead class="table-secondary">
+        <tr>
+            <th class="w-75">
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            
+            <th class="w-25"></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                <a asp-action="Editar" asp-route-id="@item.Id">Editar</a> 
+                <a asp-action="Inativar" asp-route-id="@item.Id">Inativar</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

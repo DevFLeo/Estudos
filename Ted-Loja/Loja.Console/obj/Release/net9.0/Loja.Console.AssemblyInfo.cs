@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loja.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438459e2376a7813ef436ca72fdc352df5a4a486")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e99b7449a08cfb3f31af87504a75b40c66c06f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loja.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loja.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

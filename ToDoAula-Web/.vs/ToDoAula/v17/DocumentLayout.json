@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDo/True/SqlTable/dbo.Categorias.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\todoaula (4)\\todoaula\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|solutionrelative:todoaula\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\todoaula (4)\\todoaula\\views\\categorias\\inativar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|solutionrelative:todoaula\\views\\categorias\\inativar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\todoaula (4)\\todoaula\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|solutionrelative:todoaula\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\todoaula (4)\\todoaula\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF17FC7-6E68-4911-93F4-16BA3A5A9552}|ToDoAula\\ToDoAula.csproj|solutionrelative:todoaula\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Categorias [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDo/True/SqlTable/dbo.Categorias.sql",
+              "ToolTip": "dbo.Categorias [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-11T01:02:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoAula\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "ToDoAula\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T00:59:19.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inativar.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Views\\Categorias\\Inativar.cshtml",
+              "RelativeDocumentMoniker": "ToDoAula\\Views\\Categorias\\Inativar.cshtml",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Views\\Categorias\\Inativar.cshtml",
+              "RelativeToolTip": "ToDoAula\\Views\\Categorias\\Inativar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T00:48:02.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ToDoAula\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Models\\Categoria.cs",
+              "RelativeToolTip": "ToDoAula\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:49:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ToDoAula\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\ToDoAula (4)\\ToDoAula\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ToDoAula\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:48:49.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

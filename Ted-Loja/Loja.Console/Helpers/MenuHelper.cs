@@ -35,7 +35,7 @@ internal class MenuHelper
         var opcao = ReadLine();
         switch (opcao)
         {
-            case "1": MenuVendas(); break;
+            case "1": MenuVenda(); break;
             case "2": MenuCliente(); break;
             case "3": MenuVendedores(); break;
             case "4": MenuProduto(); break;
@@ -47,7 +47,7 @@ internal class MenuHelper
         }
         MenuPrincipal();
     }
-    public static void MenuVendas()
+    public static void MenuVenda()
     {
         CriarCabecalho("Loja Sapiens - Clientes");
         WriteLine(" [1] Cadastrar");

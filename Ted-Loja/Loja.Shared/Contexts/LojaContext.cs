@@ -9,6 +9,8 @@ public static class LojaContext
     public static List<Cliente> Clientes { get; set; } = new();
     public static List<Vendedor> Vendedor { get; set; } = new();
     public static List<Venda> Vendas { get; set; } = new();
+    public static List<ItemDeVenda> ItemDeVenda { get; set; } = new();
+    public static object Venda { get; set; }
 
     public static void Inicializar()
     {

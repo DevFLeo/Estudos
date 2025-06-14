@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Helpers\NovaPasta\**" />
+    <EmbeddedResource Remove="Helpers\NovaPasta\**" />
+    <None Remove="Helpers\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Loja.Shared\Loja.Shared.csproj" />
   </ItemGroup>
 

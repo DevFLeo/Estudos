@@ -51,7 +51,7 @@ namespace Loja.Console.Helpers
             MenuHelper.CriarCabecalho("EDITAR VENDEDOR");
             Write(" Informe o código do Vendedor: ");
             int id = Convert.ToInt32(ReadLine());
-            var vendedor = LojaContext.Vendedor.FirstOrDefault(p => p.Id == id);
+            var vendedor = LojaContext.Vendedor.FirstOrDefault(v => v.Id == id);
 
             if (vendedor == null)
             {
@@ -100,8 +100,8 @@ namespace Loja.Console.Helpers
         }
         public static void Excluir()
         {
-            MenuHelper.CriarCabecalho("EXCLUIR PRODUTO");
-            Write(" Informe o código do produto: ");
+            MenuHelper.CriarCabecalho("EXCLUIR VENDEDOR");
+            Write(" Informe o código do vendedor: ");
             int codigo = Convert.ToInt32(ReadLine());
             var vendedor = LojaContext.Vendedor.FirstOrDefault(p => p.Id == codigo);
 
@@ -124,7 +124,7 @@ namespace Loja.Console.Helpers
             MenuHelper.CriarLinha();
             Write(" [Enter] para continuar... ");
             ReadLine();
-            MenuHelper.MenuVendas();
+            MenuHelper.MenuVenda();
         }
     }
 }

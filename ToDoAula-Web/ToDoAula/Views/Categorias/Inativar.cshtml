@@ -1,0 +1,29 @@
+﻿@model ToDoAula.Models.Categoria
+
+@{
+	ViewData["Title"] = "Inativar uma categoria";
+}
+
+<h1>Inativar uma categoria</h1>
+
+<h3>Deseja realmente inativar essa categoria?</h3>
+<div>
+	<hr />
+	<div class="card">
+		<div class="card-header">
+			@Html.DisplayNameFor(model => model.Nome)
+		</div>
+		<ul class="list-group list-group-flush">
+			<li class="list-group-item">@Model.Nome</li>
+		</ul>
+
+	</div>
+
+	<div class="card-footer">
+		<form asp-action="Inativar">
+			<input type="hidden" asp-for="Id" />
+			<button type="submit" class="btn btn-danger" />Inativar</button>
+			<a class="btn btn-secondary" asp-action="Index">Voltar</a>
+		</form>
+	</div>
+</div>
