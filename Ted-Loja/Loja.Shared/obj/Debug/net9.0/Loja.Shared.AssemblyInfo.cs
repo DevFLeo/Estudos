@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loja.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c085396e23c793d9967bccfde2313e8a4704d2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bab7393187b714ac3e54a2e9cf1f418040254e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loja.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loja.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -53,6 +53,8 @@ int main() {
         return 0;
     }
 
+}
+
     // Esse código lê números inteiros continuamente e classifica cada número como positivo ou negativo. O loop continua até que o usuário digite zero, momento em que o programa encerra e exibe a contagem total de números positivos e negativos.
 // A função `classificar_numero` é responsável por classificar o número e retornar a mensagem correspondente. O código é simples e direto, utilizando um loop para entrada contínua e uma função para encapsular a lógica de classificação. Isso facilita a manutenção e a legibilidade do código.
 // O anterior estava errado , pois não exibia a resposta na maneira que o site pedia
