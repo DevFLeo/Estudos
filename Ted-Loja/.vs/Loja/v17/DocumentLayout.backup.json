@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A657619-3541-4519-840E-DD7760E98796}|Loja.Console\\Loja.Console.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\ted-loja\\loja.console\\helpers\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A657619-3541-4519-840E-DD7760E98796}|Loja.Console\\Loja.Console.csproj|solutionrelative:loja.console\\helpers\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A657619-3541-4519-840E-DD7760E98796}|Loja.Console\\Loja.Console.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\ted-loja\\loja.console\\helpers\\vendedorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A657619-3541-4519-840E-DD7760E98796}|Loja.Console\\Loja.Console.csproj|solutionrelative:loja.console\\helpers\\vendedorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{7EA04B19-6A39-4686-ABB1-91AEAE69B1C5}|Loja.Shared\\Loja.Shared.csproj|solutionrelative:loja.shared\\models\\itemdevenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A657619-3541-4519-840E-DD7760E98796}|Loja.Console\\Loja.Console.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\ted-loja\\loja.console\\helpers\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A657619-3541-4519-840E-DD7760E98796}|Loja.Console\\Loja.Console.csproj|solutionrelative:loja.console\\helpers\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1211A7C-10C2-4848-A45E-198E0BCB5409}|Loja.Web\\Loja.Web.csproj|c:\\users\\leona\\onedrive\\documentos\\meus_repos\\estudos\\ted-loja\\loja.web\\loja.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C1211A7C-10C2-4848-A45E-198E0BCB5409}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\loja.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -37,8 +37,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 333,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 536,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VendaHelper.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Helpers\\VendaHelper.cs",
               "RelativeDocumentMoniker": "Loja.Console\\Helpers\\VendaHelper.cs",
@@ -59,19 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MenuHelper.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Helpers\\MenuHelper.cs",
               "RelativeDocumentMoniker": "Loja.Console\\Helpers\\MenuHelper.cs",
               "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Helpers\\MenuHelper.cs",
               "RelativeToolTip": "Loja.Console\\Helpers\\MenuHelper.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowCUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowCUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:35:55.523Z"
+              "WhenOpened": "2025-06-10T00:35:55.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ItemDeVenda.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Models\\ItemDeVenda.cs",
               "RelativeDocumentMoniker": "Loja.Shared\\Models\\ItemDeVenda.cs",
@@ -84,12 +85,12 @@
           ]
         },
         {
-          "DockedWidth": 308,
+          "DockedWidth": 105,
           "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LojaContext.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Contexts\\LojaContext.cs",
               "RelativeDocumentMoniker": "Loja.Shared\\Contexts\\LojaContext.cs",
@@ -113,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VendedorHelper.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Console\\Helpers\\VendedorHelper.cs",
               "RelativeDocumentMoniker": "Loja.Console\\Helpers\\VendedorHelper.cs",
@@ -126,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Venda.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Models\\Venda.cs",
               "RelativeDocumentMoniker": "Loja.Shared\\Models\\Venda.cs",

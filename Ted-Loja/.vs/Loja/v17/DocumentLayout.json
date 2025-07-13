@@ -54,8 +54,7 @@
               "RelativeToolTip": "Loja.Console\\Helpers\\VendaHelper.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAqwHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:32:34.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T00:32:34.829Z"
             },
             {
               "$type": "Document",
@@ -86,31 +85,11 @@
         },
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LojaContext.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Contexts\\LojaContext.cs",
-              "RelativeDocumentMoniker": "Loja.Shared\\Contexts\\LojaContext.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Contexts\\LojaContext.cs",
-              "RelativeToolTip": "Loja.Shared\\Contexts\\LojaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:46:45.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Loja.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Web\\Loja.Web.csproj",
-              "RelativeDocumentMoniker": "Loja.Web\\Loja.Web.csproj",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Web\\Loja.Web.csproj",
-              "RelativeToolTip": "Loja.Web\\Loja.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T23:02:44.434Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Document",
@@ -127,6 +106,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loja.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Web\\Loja.Web.csproj",
+              "RelativeDocumentMoniker": "Loja.Web\\Loja.Web.csproj",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Web\\Loja.Web.csproj",
+              "RelativeToolTip": "Loja.Web\\Loja.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T23:02:44.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LojaContext.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Contexts\\LojaContext.cs",
+              "RelativeDocumentMoniker": "Loja.Shared\\Contexts\\LojaContext.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Contexts\\LojaContext.cs",
+              "RelativeToolTip": "Loja.Shared\\Contexts\\LojaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:46:45.089Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Venda.cs",
               "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\Meus_Repos\\Estudos\\Ted-Loja\\Loja.Shared\\Models\\Venda.cs",
@@ -136,6 +139,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:32:01.006Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
